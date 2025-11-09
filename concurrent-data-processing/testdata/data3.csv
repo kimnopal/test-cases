@@ -1,0 +1,7 @@
+timestamp,event,user_id,status
+2025-01-01T10:00:00,login,user123,success
+2025-01-01T10:05:00,purchase,user456,success
+2025-01-01T10:10:00,logout,user123,success
+2025-01-01T10:15:00,login,user789,failed
+2025-01-01T10:20:00,update_profile,user456,success
+
